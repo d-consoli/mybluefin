@@ -3,6 +3,8 @@ brew "git"
 brew "gh"
 brew "chezmoi"
 brew "zsh"
+brew "google-cloud-sdk"
+brew "stremio"
 
 # GUI Applications (managed by Flatpak via Homebrew)
 # The syntax is flatpak "ApplicationID"
