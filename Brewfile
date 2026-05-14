@@ -15,3 +15,4 @@ flatpak "com.brave.Browser"          # Brave Browser
 flatpak "org.telegram.desktop"       # Telegram
 flatpak "io.github.mimbrero.WhatsAppDesktop" # WhatsApp (Unofficial wrapper)
 flatpak "com.bambulab.BambuStudio"   # Bamboo Studio
+flatpak "org.kicad.KiCad"
